@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f6d24745.css",
+    "main.js": "./static/js/main.db3dd4d0.js",
+    "static/media/MoneyRhombus.png": "./static/media/MoneyRhombus.4a0f0a72a61481a0435e.png",
+    "index.html": "./index.html",
+    "main.f6d24745.css.map": "./static/css/main.f6d24745.css.map",
+    "main.db3dd4d0.js.map": "./static/js/main.db3dd4d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d24745.css",
+    "static/js/main.db3dd4d0.js"
+  ]
+}
